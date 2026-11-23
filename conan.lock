@@ -14,7 +14,7 @@
         "cmake/4.5.0#24bd34291eb0f81c64854389dd6a216f%1794652026.685"
     ],
     "python_requires": [
-        "xenoide-base/0.1.0#08029148511e8c1348d2e8daed202a60%1795465791.2941017"
+        "xenoide-base/0.1.1#958ff53b48e23247d3bbade899526938%1795477019.81648"
     ],
     "config_requires": []
 }

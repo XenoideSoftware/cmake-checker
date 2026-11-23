@@ -1,0 +1,20 @@
+{
+    "version": "0.5",
+    "requires": [
+        "rapidyaml/0.7.1#c0f516b0c39e2455160cec0e8c00f8c0%1723764830.666",
+        "nlohmann_json/3.12.0#2d634ab0ec8d9f56353e5ccef6d6612c%1744735883.94",
+        "fmt/11.2.0#15c2efeeecd75ba2fb9dafbec8dfa4cc%1785754557.243",
+        "fast_float/8.2.10#f6f28d6bb22112078e7dbda611caf681%1782494504.298",
+        "cxxopts/3.3.1#047ef7b8ae49e0d48a1450f4522dc041%1748330656.693",
+        "chaiscript/6.1.0#fc66a3cd4fff0d1392d592bede7adab3%1687420757.169",
+        "catch2/3.14.0#d82340ec56a54afe1932f1aa9c9d490c%1775578807.348",
+        "c4core/0.2.0#0aeafdca5dc9ada2c1b97669a64af808%1782834245.836"
+    ],
+    "build_requires": [
+        "cmake/4.5.0#24bd34291eb0f81c64854389dd6a216f%1794652026.685"
+    ],
+    "python_requires": [
+        "xenoide-base/0.1.0#08029148511e8c1348d2e8daed202a60%1795465791.2941017"
+    ],
+    "config_requires": []
+}
